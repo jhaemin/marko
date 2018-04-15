@@ -1,0 +1,7 @@
+2018. 1. 17
+- Bug fix
+: when selection hangs on the end of previous paragraph or the start of next paragraph, tagging and range keeping do not work properly
+
+2018. 1. 16
+- Update HTML tagging algorithm
+: now over 100 times faster tagging the selection
